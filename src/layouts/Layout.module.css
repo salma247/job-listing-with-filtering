@@ -1,0 +1,33 @@
+.layout{
+    background-color: hsl(180, 52%, 96%);
+    min-height: 100vh;
+}
+
+.background{
+    background-color: hsl(180, 29%, 50%);
+    background-image: url('../Assests/images/bg-header-mobile.svg'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 20vh;
+    width: 100%;
+}
+
+.content{
+    margin: 0 2rem;
+}
+
+@media (min-width: 768px) {
+    .background{
+        background-image: url('../Assests/images/bg-header-desktop.svg');
+    }
+    .content{
+        margin: 0 4rem;
+    }
+}
+
+@media (min-width: 1440px) {
+    .content{
+        margin: 0 10rem;
+    }
+}

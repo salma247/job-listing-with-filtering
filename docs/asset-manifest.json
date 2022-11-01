@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/job-listing-with-filtering/static/css/main.f1b0930d.css",
+    "main.js": "/job-listing-with-filtering/static/js/main.6ed0b32f.js",
+    "static/css/246.932390ef.chunk.css": "/job-listing-with-filtering/static/css/246.932390ef.chunk.css",
+    "static/js/246.1fb3ef11.chunk.js": "/job-listing-with-filtering/static/js/246.1fb3ef11.chunk.js",
+    "static/js/787.80386322.chunk.js": "/job-listing-with-filtering/static/js/787.80386322.chunk.js",
+    "static/media/loop-studios.svg": "/job-listing-with-filtering/static/media/loop-studios.7778c957c5751d1502cc.svg",
+    "static/media/photosnap.svg": "/job-listing-with-filtering/static/media/photosnap.5a867c13a374d62b400f.svg",
+    "static/media/manage.svg": "/job-listing-with-filtering/static/media/manage.5a528a9669728fb94c8c.svg",
+    "static/media/insure.svg": "/job-listing-with-filtering/static/media/insure.4d535e7e02c25d02b163.svg",
+    "static/media/account.svg": "/job-listing-with-filtering/static/media/account.903d6cd02abadf4b4d60.svg",
+    "static/media/eyecam-co.svg": "/job-listing-with-filtering/static/media/eyecam-co.0abb14e8a292eed471d5.svg",
+    "static/media/shortly.svg": "/job-listing-with-filtering/static/media/shortly.3c01b577742e2648f6f9.svg",
+    "static/media/myhome.svg": "/job-listing-with-filtering/static/media/myhome.aaaaa430346f24f652d5.svg",
+    "static/media/the-air-filter-company.svg": "/job-listing-with-filtering/static/media/the-air-filter-company.9b55f6443c39f7b79348.svg",
+    "static/media/bg-header-desktop.svg": "/job-listing-with-filtering/static/media/bg-header-desktop.752d0faf14c00c6fb55f.svg",
+    "static/media/faceit.svg": "/job-listing-with-filtering/static/media/faceit.54a148ce9e8793ff767e.svg",
+    "index.html": "/job-listing-with-filtering/index.html",
+    "static/media/bg-header-mobile.svg": "/job-listing-with-filtering/static/media/bg-header-mobile.b7750a0c3e0c016763b9.svg",
+    "static/media/icon-remove.svg": "/job-listing-with-filtering/static/media/icon-remove.70c075ce001e5ccae7c6.svg",
+    "main.f1b0930d.css.map": "/job-listing-with-filtering/static/css/main.f1b0930d.css.map",
+    "main.6ed0b32f.js.map": "/job-listing-with-filtering/static/js/main.6ed0b32f.js.map",
+    "246.932390ef.chunk.css.map": "/job-listing-with-filtering/static/css/246.932390ef.chunk.css.map",
+    "246.1fb3ef11.chunk.js.map": "/job-listing-with-filtering/static/js/246.1fb3ef11.chunk.js.map",
+    "787.80386322.chunk.js.map": "/job-listing-with-filtering/static/js/787.80386322.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b0930d.css",
+    "static/js/main.6ed0b32f.js"
+  ]
+}

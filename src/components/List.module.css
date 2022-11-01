@@ -1,0 +1,10 @@
+.list{
+    padding: 3rem 0;
+}
+
+.list__container{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+

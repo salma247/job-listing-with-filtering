@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "name": "Languages",
+        "values": [
+            {
+                "id": "HTML",
+                "name": "HTML"
+            },
+            {
+                "id": "CSS",
+                "name": "CSS"
+            },
+            {
+                "id": "JavaScript",
+                "name": "JavaScript"
+            },
+            {
+                "id": "Python",
+                "name": "Python"
+            },
+            {
+                "id": "Ruby",
+                "name": "Ruby"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Tools",
+        "values": [
+            {
+                "id": "React",
+                "name": "React"
+            },
+            {
+                "id": "Sass",
+                "name": "Sass"
+            },
+            {
+                "id": "Vue",
+                "name": "Vue"
+            },
+            {
+                "id": "Django",
+                "name": "Django"
+            },
+            {
+                "id": "RoR",
+                "name": "RoR"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Roles",
+        "values": [
+            {
+                "id": "Frontend",
+                "name": "Frontend"
+            },
+            {
+                "id": "Backend",
+                "name": "Backend"
+            },
+            {
+                "id": "Fullstack",
+                "name": "Fullstack"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Levels",
+        "values": [
+            {
+                "id": "Junior",
+                "name": "Junior"
+            },
+            {
+                "id": "Midweight",
+                "name": "Midweight"
+            },
+            {
+                "id": "Senior",
+                "name": "Senior"
+            }
+        ]
+    }
+]

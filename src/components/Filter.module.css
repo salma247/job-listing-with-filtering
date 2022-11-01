@@ -1,0 +1,95 @@
+.filter {
+    background-color: #fff;
+    border-radius: 0.4rem;
+    padding: 1rem;
+    margin-top: -2rem;
+    display: flex;
+    gap: .5rem;
+    justify-content: space-between;
+    padding: 1rem;
+    box-shadow: 2px 6px 10px 0 hsla(180, 29%, 50%, 0.277);
+}
+
+.filter .filter__container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.filter select {
+    background-color: #f6f6f6;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border: 1px solid hsla(180, 29%, 50%, 0.25);
+    color: hsl(180, 29%, 50%);
+}
+
+.filter select option {
+    background-color: #fff;
+}
+
+.filter select:hover {
+    background-color: hsl(180, 29%, 50%);
+    color: #fff;
+}
+
+
+.filter .filter__tag {
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(180, 31%, 95%);
+    color: hsl(180, 29%, 50%);
+    padding-left: 0.5rem;
+    font-size: 1rem;
+    border-radius: 2px;
+    box-shadow: 2px 4px 5px 0 rgb(0 0 0 / 10%)
+}
+
+.filter .filter__tag .filter__tag__close {
+    padding: 0.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    height: 100%;
+    background-color: hsl(180, 29%, 50%);
+    color: #fff;
+    border: none;
+    border-bottom-right-radius: 2px;
+    border-top-right-radius: 2px;
+}
+
+.filter .filter__tag .filter__tag__close:hover {
+    background-color: hsl(180, 14%, 20%);
+}
+
+.filter .filter__clear {
+    align-self: center;
+}
+
+.filter .filter__clear button {
+    font-family: 'League Spartan', sans-serif;
+    font-size: 1rem;
+    border: none;
+    color: hsl(180, 8%, 52%);
+    font-weight: 700;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.filter .filter__clear button:hover {
+    color: hsl(180, 29%, 50%);
+    text-decoration: underline;
+}
+
+@media (min-width: 768px) {
+    /* font-size: 1.2rem; */
+    .filter select,
+    .filter .filter__tag,
+    .filter .filter__clear button,
+    .filter .filter__tag .filter__tag__close {
+        font-size: 1.2rem;
+    }
+
+}
